@@ -118,10 +118,10 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog', //todo to remove
-              to: '/blog',
-            },
+            // {
+            //   label: 'Blog', //todo to remove
+            //   to: '/blog',
+            // },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
